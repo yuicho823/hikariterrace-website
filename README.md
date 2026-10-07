@@ -3,6 +3,10 @@
 居宅介護・重度訪問介護事業所「ヒカリテラス」の静的サイト。
 本番の正規URL: https://hikariterrace.org/
 
+GitHub: https://github.com/yuicho823/hikariterrace-website
+Vercel Project: `hikariterrace-website`（チーム `spiritual-lms`）
+`www.hikariterrace.org` は308で正規URLへ転送。
+
 ## 公開
 
 Vercel Framework Preset: Other。ビルドコマンドなし、出力ディレクトリ `.`。GitHubのmainをProduction Branchとして使用。
